@@ -102,12 +102,22 @@ body {
     left: 18px;
 }
 
-.inner3 {
-  width: 120px;
-  height: 120px;
+.innerb1 {
+  width: 110px;
+  height: 105px;
   border-bottom-left-radius: 130px;
   background-color: #70a7d1;
   position: relative;
-  top: 20px;
-  left: 5px;
+  top: 25px;
+  left: 20px;
+}
+
+.innerb2 {
+  width: 110px;
+  height: 105px;
+  border-bottom-right-radius: 130px;
+  background-color: #70a7d1;
+  position: relative;
+  left: 140px;
+  bottom: 80px;
 }
