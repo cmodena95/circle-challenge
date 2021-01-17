@@ -89,3 +89,25 @@ body {
   border: solid 1px white;
   bottom: 305px;
 }
+
+.inner2 {
+    width: 235px;
+    height: 120px; /* as the half of the width */
+    background-color: #70a7d1;
+    border-top-left-radius: 130px;  /* 100px of height + 10px of border */
+    border-top-right-radius: 130px; /* 100px of height + 10px of border */
+    border-bottom: 0;
+    position: relative;
+    top: 15px;
+    left: 18px;
+}
+
+.inner3 {
+  width: 120px;
+  height: 120px;
+  border-bottom-left-radius: 130px;
+  background-color: #70a7d1;
+  position: relative;
+  top: 20px;
+  left: 5px;
+}
